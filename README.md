@@ -1,7 +1,7 @@
 # ohwid
 
 # Example
-```rs
+```rust
 use ohwid::get_hwid;
 let hwid = get_hwid();
 
