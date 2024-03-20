@@ -1,6 +1,20 @@
 # ohwid
+Allows you to get hardware ID of the current machine.
 
-# Example
+## Supported systems
++ Windows
+
+## Install
+```bash
+cargo add ohwid
+```
+or
+```toml
+[dependencies]
+winreg = "0.1.0"
+```
+
+## Example
 ```rust
 use ohwid::get_hwid;
 let hwid = get_hwid();
