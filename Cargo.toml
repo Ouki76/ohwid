@@ -1,6 +1,11 @@
 [package]
 name = "ohwid"
 version = "0.1.0"
+authors = ["Ouki76"]
+repository  = "https://github.com/Ouki76/ohwid"
+readme = "README.md"
+license = "MIT"
+license-file = "LICENSE"
 edition = "2021"
 
 [dependencies]
