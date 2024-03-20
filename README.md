@@ -3,6 +3,7 @@ Allows you to get hardware ID of the current machine.
 
 ## Supported systems
 + Windows
++ Linux
 
 ## Install
 ```bash

@@ -1,12 +1,12 @@
 [package]
 name = "ohwid"
 description = "Get the hardware ID of the current machine"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Ouki76"]
 repository  = "https://github.com/Ouki76/ohwid"
 readme = "README.md"
 license-file = "LICENSE"
 edition = "2021"
 
-[dependencies]
+[target.'cfg(windows)'.dependencies]
 winreg = "0.52.0"
