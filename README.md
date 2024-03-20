@@ -12,7 +12,7 @@ cargo add ohwid
 or
 ```toml
 [dependencies]
-winreg = "0.1.0"
+ohwid = "0.1.1"
 ```
 
 ## Example
