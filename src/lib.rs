@@ -2,7 +2,7 @@
 use winreg::{enums::HKEY_LOCAL_MACHINE, RegKey};
 /// Get the hardware ID of the current machine
 /// 
-/// # Example:
+/// # Example
 /// ```
 /// use ohwid::get_hwid;
 /// let hwid = get_hwid();
