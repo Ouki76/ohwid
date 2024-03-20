@@ -1,6 +1,6 @@
 # ohwid
 
-# Example:
+# Example
 ```rs
 use ohwid::get_hwid;
 let hwid = get_hwid();
