@@ -12,7 +12,7 @@ cargo add ohwid
 or
 ```toml
 [dependencies]
-ohwid = "0.1.1"
+ohwid = "0.1.2"
 ```
 
 ## Example

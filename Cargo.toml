@@ -1,7 +1,7 @@
 [package]
 name = "ohwid"
 description = "Get the hardware ID of the current machine"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Ouki76"]
 repository  = "https://github.com/Ouki76/ohwid"
 readme = "README.md"
